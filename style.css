@@ -1,0 +1,36 @@
+body.pruebas{
+    display: flex;
+    justify-items: center;
+}
+body.inicio {
+    padding: 2rem 15%;
+}
+body > h2 {
+    padding-left: 3rem;
+}
+body{
+    background-color: lightgrey;
+}
+table, th, td {
+    border: 1px solid black;
+    padding: 1rem;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: auto
+}
+
+th, td {
+    background-color: lightsteelblue;
+    text-align: center;
+}
+caption{
+    font-size: 2rem;
+    margin:2rem auto;
+}
+tr:first-child > th {
+    text-decoration: underline;
+    font-size: 1.2rem;
+}
