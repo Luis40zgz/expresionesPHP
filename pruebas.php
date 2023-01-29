@@ -9,6 +9,7 @@
     <title>Document</title>
 </head>
 <body class="pruebas">
+    //Ejercicio evaluable
 <div>
 <h2>Los  múltiplos de 3 en los 100 primeros</h2>
 <ul>
